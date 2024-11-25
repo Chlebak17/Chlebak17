@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Chlebak17
-- 👀 I’m interested in pc
-- 🌱 I’m currently learning pc
+I´m IT student who likes to sits in front of computer
+But sometimes I rather go outside with my friends
 
 
 <!---
