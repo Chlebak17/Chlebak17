@@ -1,5 +1,5 @@
 I´m IT student who likes to create software to bring people happiness.
-Mostly coding in java, but i already did something in python or C#
+Mostly coding in java, but I have some experience with python or .NET.
 I´m trying to get better in coding everytime!
 
 
