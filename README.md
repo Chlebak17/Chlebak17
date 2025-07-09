@@ -1,5 +1,6 @@
-I´m IT student who likes to sits in front of computer
-But sometimes I rather go outside with my friends
+I´m IT student who likes to create software to bring people happiness.
+Mostly coding in java, but i already did something in python or C#
+I´m trying to get better in coding everytime!
 
 
 <!---
